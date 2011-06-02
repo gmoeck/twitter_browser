@@ -1,0 +1,35 @@
+<div class="profile-header">
+  <div class="main-info">
+    <div class="profile-image-container">
+      <img {{bindAttr src="profileImageUrl"}}>
+    </div>
+    <div class="profile-details">
+      <div class="full-name">
+        <h2>{{content.fullName}}</h2>
+      </div>
+      <div class="screen-name-and-location">
+        <span class="handle">@{{content.userName}}</span>
+        {{content.location}}
+      </div>
+      <div class="bio">
+        {{content.bio}}
+      </div>
+    </div>
+  </div>
+  <div class="other-info">
+    <ul class="user-stats">
+      <li>
+        {{content.tweetCount}}
+        <span class="user-stats-stat">Tweets</span>
+      </li>
+        <li>
+          {{content.followingCount}}
+          <span class="user-stats-stat">Following</span>
+        </li>
+      <li>
+        {{content.followersCount}}
+        <span class="user-stats-stat">Followers</span>
+      </li>
+    </ul>
+  </div>
+</div>

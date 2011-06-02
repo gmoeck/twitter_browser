@@ -1,0 +1,18 @@
+<div class="stream-item">
+  <div class="stream-item-content">
+    <div class="tweet-image"><img height="48" width="48" {{bindAttr src="parentView.user.profileImageUrl"}}></div>
+    <div class="tweet-content">
+      <div class="tweet-row">
+        <span class="tweet-user-name">
+          <span class="tweet-screen-name">{{parentView.user.userName}}</span>
+          <span class="tweet-full-name">{{parentView.user.fullName}}</span>
+        </span>
+      </div>
+      <div class="tweet-row">
+        <div class="tweet-text">
+          {{content.text}}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
