@@ -2,7 +2,7 @@
 This is a simple application that was built for the Introduction to
 Sproutcore traning series put on by Strobe. You can view the video for
 building this application
-[here](http://www.strobecorp.com/products-press/).
+[here](http://vimeo.com/24487742).
 
 #Running the applicaiton
 The application depends on a backend rails client that simplifies and
