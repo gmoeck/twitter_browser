@@ -1,7 +1,7 @@
 #Twitter Browser Example
 This is a simple application that was built for the Introduction to
-Sproutcore traning series put on by Strobe. You can view the video for
-building this application
+Sproutcore traning series put on by Strobe. It is expected to be running
+on Sproutcore 1.6. You can view the video for building this application
 [here](http://vimeo.com/24487742).
 
 #Running the applicaiton
