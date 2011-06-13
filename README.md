@@ -10,3 +10,6 @@ aggregates the json coming from the twitter api. You can find the
 backend [here](http://www.github.com/gmoeck/twitter_browser_backend).
 First start the rails server, then run sc-server and goto
 http://localhost:4020/twitter_browser.
+
+#Other Example Backends
+* ryan-blunden's Django app [https://github.com/ryan-blunden/twitter_backend](https://github.com/ryan-blunden/twitter_backend)
