@@ -13,3 +13,4 @@ http://localhost:4020/twitter_browser.
 
 #Other Example Backends
 * ryan-blunden's Django app [https://github.com/ryan-blunden/twitter_backend](https://github.com/ryan-blunden/twitter_backend)
+* pangratz's node.js backend [https://github.com/pangratz/twitter_browser_backend_nodejs](https://github.com/pangratz/twitter_browser_backend_nodejs)
